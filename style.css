@@ -1,5 +1,18 @@
 body
 {
-    background-color: orange;
+    background: linear-gradient(to bottom,orange,tomato);
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.temples
+{
+    background-color: rgba(130, 66, 14, 0.93);
+
 }
