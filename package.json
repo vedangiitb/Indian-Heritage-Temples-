@@ -1,0 +1,19 @@
+{
+  "name": "indian-heritage-temples-",
+  "version": "1.0.0",
+  "description": "Photos and brief info about some of the best heritage temples in India",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedangiitb/Indian-Heritage-Temples-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedangiitb/Indian-Heritage-Temples-/issues"
+  },
+  "homepage": "https://github.com/vedangiitb/Indian-Heritage-Temples-#readme"
+}
