@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vedangiitb/Indian-Heritage-Temples-/issues"
   },
-  "homepage": "https://github.com/vedangiitb/Indian-Heritage-Temples-#readme"
+  "homepage": "https://github.com/vedangiitb/Indian-Heritage-Temples-#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
